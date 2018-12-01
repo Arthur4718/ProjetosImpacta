@@ -1,6 +1,4 @@
 package example.com.ex_desconto;
-
-import android.support.annotation.StringDef;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Editable;
@@ -14,6 +12,11 @@ public class MainActivity extends AppCompatActivity {
     private double preco_cheio = 2000.0;
 
 
+    /*
+        Este projeto demosntra o uso do evento Onclick de forma literal. Criando um listener
+        e definindo um comportamento comum.
+
+    */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
