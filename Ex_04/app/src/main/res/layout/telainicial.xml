@@ -25,6 +25,8 @@
         android:id="@+id/et_age"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:inputType="number"
+        android:selectAllOnFocus="true"
         android:text="27" />
 
     <LinearLayout
@@ -65,6 +67,28 @@
             android:layout_gravity="center_vertical|center_horizontal"
             android:src="@drawable/man" />
     </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cidade"
+        />
+
+    <CheckBox
+        android:layout_marginTop="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sâo Paulo"
+        />
+
+    <Button
+        android:id="@+id/btn_lerdados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Ler Dados"
+        />
 
 
 </LinearLayout>
