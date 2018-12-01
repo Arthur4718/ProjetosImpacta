@@ -33,10 +33,14 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/example/com/prj_04_tooglebutton/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+            <state relative-caret-position="410">
+              <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2137#2423#0" expanded="true" />
+                <element signature="e#2422#2423#0" expanded="true" />
+                <element signature="e#2465#3152#0" expanded="true" />
+                <element signature="e#3151#3152#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1907,8 +1911,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/telainicial.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/example/com/prj_04_tooglebutton/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/example/com/prj_04_tooglebutton/Constantes.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/example/com/prj_04_tooglebutton/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2459,6 +2463,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2137#2423#0" expanded="true" />
+            <element signature="e#2422#2423#0" expanded="true" />
+            <element signature="e#2465#3152#0" expanded="true" />
+            <element signature="e#3151#3152#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2495,10 +2503,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/example/com/prj_04_tooglebutton/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+        <state relative-caret-position="410">
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2137#2423#0" expanded="true" />
+            <element signature="e#2422#2423#0" expanded="true" />
+            <element signature="e#2465#3152#0" expanded="true" />
+            <element signature="e#3151#3152#0" expanded="true" />
           </folding>
         </state>
       </provider>
